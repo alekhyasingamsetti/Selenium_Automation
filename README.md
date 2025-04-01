@@ -128,4 +128,4 @@ This project is licensed under the MIT License.
 ## 📞 Contact
 For queries or discussions, reach out via:
 - LinkedIn: [Your Profile](https://linkedin.com/in/alekhyasingamsetti)
-- GitHub: [Your GitHub]()
+- GitHub: [Your GitHub](https://github.com/alekhyasingamsetti/SeleniumAutomation)
