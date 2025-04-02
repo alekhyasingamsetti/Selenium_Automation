@@ -26,17 +26,6 @@ public class Selenium_08 {
         driver.quit();
     }
 
-
-
-
-
-
-
-
-
-
-
-
    // <a href="https://vwo.com/free-trial/?utm_medium=website&amp;utm_source=login-page&amp;utm_campaign=mof_eg_loginpage"
     // class="text-link"
     // data-qa="bericafeqo">Start a free trial</a>
